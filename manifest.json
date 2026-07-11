@@ -1,0 +1,140 @@
+{
+  "source_html_bytes": 47000215,
+  "optimized_html_bytes": 56123,
+  "data_uri_occurrences_replaced": 32,
+  "unique_assets": 26,
+  "assets_total_bytes": 27534052,
+  "largest_asset_bytes": 3998509,
+  "assets": [
+    {
+      "filename": "img-01-e9326cb17e.png",
+      "mime": "image/png",
+      "size": 3654947
+    },
+    {
+      "filename": "img-02-293d1c427f.webp",
+      "mime": "image/webp",
+      "size": 85518
+    },
+    {
+      "filename": "img-03-63e3451088.webp",
+      "mime": "image/webp",
+      "size": 56960
+    },
+    {
+      "filename": "img-04-87705e7348.webp",
+      "mime": "image/webp",
+      "size": 18976
+    },
+    {
+      "filename": "img-05-7c6ffcafe1.webp",
+      "mime": "image/webp",
+      "size": 24390
+    },
+    {
+      "filename": "img-06-cab152d000.webp",
+      "mime": "image/webp",
+      "size": 26106
+    },
+    {
+      "filename": "img-07-351bdb8dbe.webp",
+      "mime": "image/webp",
+      "size": 18986
+    },
+    {
+      "filename": "img-08-c3852b4e4b.webp",
+      "mime": "image/webp",
+      "size": 409764
+    },
+    {
+      "filename": "img-09-503b52d263.png",
+      "mime": "image/png",
+      "size": 3998509
+    },
+    {
+      "filename": "img-10-bc81ec034e.png",
+      "mime": "image/png",
+      "size": 3588675
+    },
+    {
+      "filename": "img-11-60f2983e08.png",
+      "mime": "image/png",
+      "size": 3624410
+    },
+    {
+      "filename": "img-12-2052367d35.png",
+      "mime": "image/png",
+      "size": 3673792
+    },
+    {
+      "filename": "img-13-3ff4db7844.webp",
+      "mime": "image/webp",
+      "size": 25628
+    },
+    {
+      "filename": "img-14-48c8edad92.webp",
+      "mime": "image/webp",
+      "size": 25386
+    },
+    {
+      "filename": "img-15-b8f48c00a4.webp",
+      "mime": "image/webp",
+      "size": 5908
+    },
+    {
+      "filename": "img-16-8a0eb8b676.webp",
+      "mime": "image/webp",
+      "size": 4938
+    },
+    {
+      "filename": "img-17-15f2b5e49a.webp",
+      "mime": "image/webp",
+      "size": 131820
+    },
+    {
+      "filename": "img-18-13e8320e20.webp",
+      "mime": "image/webp",
+      "size": 160284
+    },
+    {
+      "filename": "img-19-35f5a81567.webp",
+      "mime": "image/webp",
+      "size": 93974
+    },
+    {
+      "filename": "img-20-fb44010f49.webp",
+      "mime": "image/webp",
+      "size": 230952
+    },
+    {
+      "filename": "img-21-04555971d6.png",
+      "mime": "image/png",
+      "size": 3595744
+    },
+    {
+      "filename": "img-22-dbed257135.png",
+      "mime": "image/png",
+      "size": 3387065
+    },
+    {
+      "filename": "img-23-634f0ef7fb.webp",
+      "mime": "image/webp",
+      "size": 202988
+    },
+    {
+      "filename": "img-24-0a5f10fac5.webp",
+      "mime": "image/webp",
+      "size": 158048
+    },
+    {
+      "filename": "img-25-595cedcfe6.webp",
+      "mime": "image/webp",
+      "size": 148924
+    },
+    {
+      "filename": "img-26-e7e1b5752a.webp",
+      "mime": "image/webp",
+      "size": 181360
+    }
+  ]
+}
